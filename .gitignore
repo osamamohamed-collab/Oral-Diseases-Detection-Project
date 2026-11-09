@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Models and data (too large for Git, use Releases instead)
+*.keras
+*.h5
+*.zip
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.ipynb_checkpoints/
